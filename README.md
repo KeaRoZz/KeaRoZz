@@ -26,3 +26,4 @@
 │ status: editing Presentation.html                                    │
 └──────────────────────────────────────────────────────────────────────┘
 
+2026 | Original design by KeaRoZz ©
